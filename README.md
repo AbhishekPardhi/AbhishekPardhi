@@ -1,7 +1,7 @@
 ### Yahallo 👋
 
 - 🔭 I’m currently working on Web Development.
-- 🌱 I’m currently learning HTML/CSS.
+- 🌱 I’m currently learning Deep learning.
 - 👯 I’m looking to collaborate on Blender & Godot.
 - 💬 Ask me about GameDev related stuff.
 - 📫 How to reach me: Gmail - abhipardhi326@gmail.com Youtube : [InfernoScizor](https://www.youtube.com/channel/UC6brFApRN51tU6x4LHakCOA/featured)
