@@ -1,6 +1,6 @@
 ### Yahallo 👋
 
-- 🔭 I’m currently working on Web Development.
+- 🔭 I’m currently working on Game Development.
 - 🌱 I’m currently learning Deep learning.
 - 👯 I’m looking to collaborate on Blender & Godot.
 - 💬 Ask me about GameDev related stuff.
