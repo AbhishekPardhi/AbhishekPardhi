@@ -1,12 +1,12 @@
 ### Hey 👋
 
-- 🔭 I’m currently working on Game Development.
-- 🌱 I’m currently learning Web Development.
-- 👯 I’m looking to collaborate in projects related to Front-End.
+- 🔭 I’m currently working on Information Retrieval with LangChain.
+- 🌱 I’m currently learning Generative AI.
+- 👯 I’m looking to collaborate in projects related to Generative AI/Front-End.
 - 💬 Ask me about GameDev related stuff.
 - 📫 How to reach me: Gmail - abhipardhi326@gmail.com Youtube : [InfernoScizor](https://www.youtube.com/channel/UC6brFApRN51tU6x4LHakCOA/featured)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I make games :)
+- ⚡ Fun fact: I also make games :)
 
 <table style="width:100%">
   <tr>
