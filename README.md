@@ -1,5 +1,5 @@
 ### Hey 👋
-Check out my new <strong>Portfolio Website</strong> live at: [abhishekpardhi.github.io/](abhishekpardhi.github.io/)
+Check out my new <strong>Portfolio Website</strong> live at: [abhishekpardhi.github.io](https://abhishekpardhi.github.io/)
 - 🔭 I’m currently working on Information Retrieval with LangChain.
 - 🌱 I’m currently learning Generative AI.
 - 👯 I’m looking to collaborate in projects related to Generative AI/Front-End.
